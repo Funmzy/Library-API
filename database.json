@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "dateRegistered": 1638994509360,
+        "author": "John Stone",
+        "age": 28,
+        "address": "5, Wall Street, Buckingham",
+        "books": [
+            {
+                "id": "book1",
+                "name": "Tomorrow is coming",
+                "isPublished": true,
+                "datePublished": 1637159508581,
+                "serialNumber": 10
+            },
+            {
+                "id": "book2",
+                "name": "October's very own",
+                "isPublished": false,
+                "datePublished": null,
+                "serialNumber": null
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "dateRegistered": 1639145425170,
+        "author": "Crown James",
+        "age": 48,
+        "address": "5, Kings Street, Houst",
+        "books": [
+            {
+                "id": "book1",
+                "name": "Throne",
+                "isPublished": true,
+                "datePublished": 1637159508581,
+                "serialNumber": 10
+            },
+            {
+                "id": "book2",
+                "name": "Dynasty",
+                "isPublished": true,
+                "datePublished": 12334995039,
+                "serialNumber": 34
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "dateRegistered": 1639145437264,
+        "author": "Crown James",
+        "age": 48,
+        "address": "5, Kings Street, Houst",
+        "books": [
+            {
+                "id": "book1",
+                "name": "Throne",
+                "isPublished": true,
+                "datePublished": 1637159508581,
+                "serialNumber": 10
+            },
+            {
+                "id": "book2",
+                "name": "Dynasty",
+                "isPublished": true,
+                "datePublished": 12334995039,
+                "serialNumber": 34
+            }
+        ]
+    }
+]
