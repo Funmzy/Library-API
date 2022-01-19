@@ -1,13 +1,10 @@
-# week-9-task-node-sq009
 
-# Task
 
-# 1. NO_SQL
+# NO_SQL
 
 ### Implement this task using MongoDB
 
 ### Clarification
-- Convert your week-7/week-7 task database into a NOSQL DB using `MONGODB`.
 - Seperate the authors and books data.
 Authors collection
    - Author name
@@ -81,10 +78,9 @@ Users collection for authentication and authorization
 
 ### Hosting
 - Host your application on Heroku
+- https://git.heroku.com/authors-book-library.git
 
 ### Documentation
 - document your API with postman
+- https://documenter.getpostman.com/view/18372119/UVXhpwVo
 
-
-# 2. Mongo Aggregation Exercise.
-- Go through the readme file in the Folder `MongoAggregation`
